@@ -54,5 +54,10 @@ Insights:
 
 **Resultado**: Após treinar o modelo, o mesmo conseguiu prever quase 100% de fraudes, apenas com erro de 2 casos, que a predição indicou erroneamente que não eram fraudes.
 
-
-  
+**IMPORTANTE:**
+# Data Undesrtanting
+Em cenário real, é importante identificar:
+- Como o dado chega até nós?
+- Qual formato virá?
+- Aonde o processamento será executado (AWS EMR, Cluster On-Premise)?
+- De quanto em quanto tempo eu preciso gerar esse relatório (mensal, diário, near-real time)?
