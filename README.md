@@ -39,7 +39,7 @@ Insights:
 - Logistic Regreesion
 
 **Obs:**
-1° Normalização dos dados: O dataset lido inicialmente está em formato json;
+1° Normalização dos dados: O dataset lido inicialmente está em formato json, realizado ajuste para colunar;
 
 2° Análise Exploratória de Dados: Usado o PySpark para analisar padrões de uso do PIX, como:
 - chaves pix mais usadas;
